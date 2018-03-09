@@ -4,3 +4,23 @@ width:500px;
 height:400px;
 display:block
 }
+
+.intro{
+  font-weight: bold;
+}
+
+.Überschrift{
+  font-style: italic;
+}
+body{
+  font-family:sans-serif;
+}
+
+
+p:hover{
+color: red
+}
+
+*{
+  color:green;
+}
